@@ -1,4 +1,4 @@
-google-colab
+--google-colab
 faker
 parsedatetime
 hopsworks
